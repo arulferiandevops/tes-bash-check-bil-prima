@@ -12,4 +12,4 @@ $ ./prima.sh 8
 Output: bilangan ini bukan bilangan prima
 
 ## Output
-![HasilProgram](https://ibb.co/ZMwfFZP)
+![HasilProgram](https://i.ibb.co/BC7fQ1x/hasil-prima.png)
