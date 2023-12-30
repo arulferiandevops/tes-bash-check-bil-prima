@@ -2,7 +2,7 @@
 
 ## Expected Output	
 $ ./prima.sh 5
-bilangan ini adalah bilangan prima
+Output: bilangan ini adalah bilangan prima
 
 $ ./prima.sh 8
-bilangan ini bukan bilangan prima
+Output: bilangan ini bukan bilangan prima
