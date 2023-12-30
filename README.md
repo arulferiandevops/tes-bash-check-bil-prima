@@ -10,3 +10,6 @@ Output: bilangan ini adalah bilangan prima
 
 $ ./prima.sh 8
 Output: bilangan ini bukan bilangan prima
+
+## Output
+![Hasil Program](https://drive.google.com/file/d/1PWm76Cs7asuOuGm8Ri4SAZDuTSfCAnc0/view?usp=sharing)
